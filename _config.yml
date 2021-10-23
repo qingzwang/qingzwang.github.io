@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Qingzhong Wang"
   avatar           : "profile.png"
-  bio              : "Dr. Qingzhong Wang is now a researcher in Baidu Research. His research interests include vision and language, multimodality and medical image processing. He revieved his PhD in 2021 from City University of Hong Kong supervied by Prof. Antoni Chan."
+  bio              : "Researcher, Baidu Research"
   location         : "Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=e7ZsEIcAAAAJ&hl=zh-CN"
-  email            :
+  email            : "qingzwang@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "qingzwang.githu.io"
   bitbucket        :
   codepen          :
   dribbble         :
