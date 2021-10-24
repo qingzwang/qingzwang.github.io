@@ -16,4 +16,13 @@ News
 ======
 * [Aug. 16, 2021] Congratulations Qingzhong for defending his thesis!
 
+Selected Publications
+======
+
+Service
+=======
+*Conference Program Committees
+  *CVPR
+  *ECCV
+
 
