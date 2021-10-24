@@ -21,8 +21,20 @@ Selected Publications
 
 Service
 =======
-*Conference Program Committees
-  *CVPR
-  *ECCV
+* Conference Program Committees
+  * CVPR - 2020-22
+  * ICCV - 2019,2021
+  * ECCV - 2020
+  * ICML - 2020-21
+  * NeurIPS - 2020-21
+  * ICLR - 2020-22
+  * BMVC - 2020
+  * ACCV - 2020
+  * WACV - 2020-21
+  * AAAI - 2020-21
+* Journal Reviewing
+  * IEEE Trans. on Image Processing
+  * IEEE Trans. on Multimedia
+  * IEEE Trans. on Neural Networks and Learning Systems
 
 
