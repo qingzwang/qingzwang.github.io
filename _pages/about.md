@@ -18,6 +18,9 @@ News
 
 Selected Publications
 ======
+* <font size=5>[On Diversity in Image Captioning: Metrics and Methods.](http://visal.cs.cityu.edu.hk/static/pubs/journal/pami20-diverse.pdf)</font> \
+**Qingzhong Wang**, Jia Wan and Antoni B. Chan. \
+IEEE Trans. on Pattern Analysis and Machine Intelligence, 2020.
 
 Service
 =======
