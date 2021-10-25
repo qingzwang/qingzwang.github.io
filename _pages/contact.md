@@ -5,13 +5,10 @@ author_profile: true
 ---
 
 ### Email
-[qingzwang@outlook.com](qingzwang@outlook.com)
+<span style="color:blue">qingzwang@outlook.com</span>
 
 ### Mailing Address
-Dr. Qingzhong Wang
-
-Baidu Technology Park Building No. 2,
-
-Xibeiwang East Road, Haidian District, 
-
+Dr. Qingzhong Wang \
+Baidu Technology Park Building No. 2, \
+Xibeiwang East Road, Haidian District, \
 Beijing, China.
