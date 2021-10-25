@@ -18,6 +18,11 @@ News
 
 Selected Publications [<font size=4>[More]</font>](https://scholar.google.com/citations?user=e7ZsEIcAAAAJ&hl=zh-CN)
 ======
+* <span style="color:#00ccff"><strong> Bridging Vision and Language via Image Captioning </strong></span> \
+  **Qingzhong Wang**. \
+  Ph.D Thesis. \
+  [PDF](https://scholars.cityu.edu.hk/en/theses/bridging-vision-and-language-via-image-captioning(16e7cfbe-7260-4400-a031-f9699f1ea5f4).html)
+
 * <span style="color:#00ccff"><strong> Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets </strong></span> \
   Jiuniu Wang, Wenjia Xu, **Qingzhong Wang** and Antoni B. Chan. \
   In European Conference on Computer Vision (ECCV), 2020. **Oral**. \
