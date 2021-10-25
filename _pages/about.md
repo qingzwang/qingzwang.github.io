@@ -30,8 +30,8 @@ IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 2020. \
 
 * <span style="color:#00ccff"><strong>Neighbours Matter: Image Captioning with Similar Images.</strong></span> \
 **Qingzhong Wang**, Jiuniu Wang, Antoni B. Chan, Siyu Huang, Haoyi Xiong, Xingjian Li and Dejing Dou. \
+In The British Machine Vision Conference (BMVC), 2020. \
 [Code](https://github.com/qingzwang/), [PDF](http://visal.cs.cityu.edu.hk/static/pubs/conf/bmvc20-neighbours.pdf)
-In The British Machine Vision Conference (BMVC), 2020.
 
 * <span style="color:#00ccff"><strong>Describing Like Humans: on Diversity in Image Captioning.</strong></span> \
 **Qingzhong Wang** and Antoni B. Chan. \
