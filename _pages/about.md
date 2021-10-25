@@ -16,7 +16,7 @@ News
 ======
 * [Aug. 16, 2021] Congratulations Qingzhong for defending his thesis!
 
-Selected Publications <font size=4>[[More]](https://scholar.google.com/citations?user=e7ZsEIcAAAAJ&hl=zh-CN)</font>
+Selected Publications [<font size=4>[More]</font>](https://scholar.google.com/citations?user=e7ZsEIcAAAAJ&hl=zh-CN)
 ======
 * <span style="color:#00ccff"><strong> Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets </strong></span> \
   Jiuniu Wang, Wenjia Xu, **Qingzhong Wang** and Antoni B. Chan. \
