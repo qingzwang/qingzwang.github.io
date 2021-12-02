@@ -14,6 +14,7 @@ Dr. Qingzhong Wang now is a researcher in Baidu research. His research interests
 
 News
 ======
+* [Dec. 01, 2021] One paper is accepted by AAAI 2022.
 * [Aug. 16, 2021] Congratulations Qingzhong for defending his thesis!
 
 Selected Publications [<font size=4>[More]</font>](https://scholar.google.com/citations?user=e7ZsEIcAAAAJ&hl=zh-CN)
