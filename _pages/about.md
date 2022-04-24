@@ -14,6 +14,7 @@ Dr. Qingzhong Wang now is a researcher in Baidu research. His research interests
 
 News
 ======
+* [Apr. 24, 2022] One paper is accepted by NeuroComputing.
 * [Mar. 03, 2022] One paper is accepted by T-PAMI.
 * [Dec. 01, 2021] One paper is accepted by AAAI 2022.
 * [Aug. 16, 2021] Congratulations Qingzhong for defending his thesis!
@@ -53,7 +54,7 @@ Service
   * ICCV - 2019,2021
   * ECCV - 2020,2022
   * ICML - 2020-22
-  * NeurIPS - 2020-21
+  * NeurIPS - 2020-22
   * ICLR - 2020-22
   * BMVC - 2020
   * ACCV - 2020
