@@ -19,6 +19,10 @@ News
 * [Dec. 01, 2021] One paper is accepted by AAAI 2022.
 * [Aug. 16, 2021] Congratulations Qingzhong for defending his thesis!
 
+Grants
+======
+* **子课题负责人** 科技部 科技创新2030重大项目 (No. 2021ZD0110303), 2022.01--2024.12
+
 Selected Publications [<font size=4>[More]</font>](https://scholar.google.com/citations?user=e7ZsEIcAAAAJ&hl=zh-CN)
 ======
 * <span style="color:#00ccff"><strong> Bridging Vision and Language via Image Captioning </strong></span> \
