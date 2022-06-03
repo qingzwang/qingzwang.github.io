@@ -7,6 +7,9 @@ author_profile: true
 
 ## 2022
 -----
+* **MUSCLE: Multi-task Self-supervised Continual Learning to Pre-train Deep Models for X-ray Images of Multiple Body Parts** \
+  Weibin Liao, Haoyi Xiong, **Qingzhong Wang**, Yan Mo, Xuhong Li, Yi Liu, Zeyu Chen, Siyu Huang and Dejing Dou. \
+  MICCAI, 2022.
 * **Face. evoLVe: A cross-platform library for high-performance face analytics.** \
   **Qingzhong Wang**, Pengfei Zhang, Haoyi Xiong and Jian Zhao.\
   NeuroComputing, 2022. \
