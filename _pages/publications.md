@@ -7,6 +7,9 @@ author_profile: true
 
 ## 2022
 -----
+* **Rethinking Degradation: Radiograph Super-Resolution via AID-SRGAN** \
+  Yongsong Huang, **Qingzhong Wang** and Shinichiro Omachi. \
+  The 13th International Workshop on Machine Learning in Medical Imaging in MICCAI, 2022.
 * **MUSCLE: Multi-task Self-supervised Continual Learning to Pre-train Deep Models for X-ray Images of Multiple Body Parts** \
   Weibin Liao, Haoyi Xiong, **Qingzhong Wang**, Yan Mo, Xuhong Li, Yi Liu, Zeyu Chen, Siyu Huang and Dejing Dou. \
   MICCAI, 2022.
