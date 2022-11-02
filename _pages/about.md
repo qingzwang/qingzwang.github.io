@@ -57,7 +57,7 @@ Service
 =======
 * Conference Program Committees
   * KDD - 2022 
-  * CVPR - 2020-22
+  * CVPR - 2020-23
   * ICCV - 2019,2021
   * ECCV - 2020,2022
   * ICML - 2020-22
