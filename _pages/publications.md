@@ -7,9 +7,14 @@ author_profile: true
 
 ## 2022
 -----
+* **A comparative survey of deep active learning** \
+  Xueying Zhan, **Qingzhong Wang**, Kuan-hao Huang, Haoyi Xiong, Dejing Dou, Antoni B. Chan. \
+  NeurIPS Human in the Loop Learning Workshop, 2022. \
+  [PDF](https://arxiv.org/pdf/2203.13450.pdf), [Code](https://github.com/SineZHAN/deepALplus)
 * **A Simple Framework for Active Learning to Rank** \
   **Qingzhong Wang**, Haifang Li, et al. \
-  NeurIPS Human in the Loop Learning Workshop, 2022.
+  NeurIPS Human in the Loop Learning Workshop, 2022. \
+  [PDF](https://arxiv.org/pdf/2205.10137.pdf)
 * **Rethinking Degradation: Radiograph Super-Resolution via AID-SRGAN** \
   Yongsong Huang, **Qingzhong Wang** and Shinichiro Omachi. \
   The 13th International Workshop on Machine Learning in Medical Imaging in MICCAI, 2022. \
