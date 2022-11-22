@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+**$\star$ indicates equal contribution. $\dagger$ indicates corresponding author.**
+
 ## 2022
 -----
 * **A comparative survey of deep active learning** \
