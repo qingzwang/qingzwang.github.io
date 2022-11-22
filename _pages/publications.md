@@ -26,7 +26,7 @@ author_profile: true
   MICCAI, 2022. \
   [PDF](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_15)
 * **Face. evoLVe: A cross-platform library for high-performance face analytics.** \
-  **Qingzhong Wang**, Pengfei Zhang, Haoyi Xiong and Jian Zhao.\
+  **Qingzhong Wang** $^\star$, Pengfei Zhang $^\star$, Haoyi Xiong $^\dagger$ and Jian Zhao $^\dagger$.\
   NeuroComputing, 2022. \
   [PDF](https://arxiv.org/abs/2107.08621), [Code](https://github.com/ZhaoJ9014/face.evoLVe)
 * **Parameter-Free Style Projection for Arbitrary Image Style Transfer.** \
