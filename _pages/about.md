@@ -32,27 +32,27 @@ Grants
 
 Selected Publications [<font size=4>[More]</font>](https://scholar.google.com/citations?user=e7ZsEIcAAAAJ&hl=zh-CN)
 ======
-* <span style="color:#00ccff"><strong> Bridging Vision and Language via Image Captioning </strong></span> \
+* **Bridging Vision and Language via Image Captioning** \
   **Qingzhong Wang**. \
   Ph.D Thesis. \
   [PDF](https://scholars.cityu.edu.hk/en/theses/bridging-vision-and-language-via-image-captioning(16e7cfbe-7260-4400-a031-f9699f1ea5f4).html)
 
-* <span style="color:#00ccff"><strong> Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets </strong></span> \
+* **Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets** \
   Jiuniu Wang, Wenjia Xu, **Qingzhong Wang** and Antoni B. Chan. \
   In European Conference on Computer Vision (ECCV), 2020. **Oral**. \
   [PDF](https://arxiv.org/pdf/2007.06877.pdf)
   
-* <span style="color:#00ccff"><strong>On Diversity in Image Captioning: Metrics and Methods.</strong></span> \
+* **On Diversity in Image Captioning: Metrics and Methods.** \
 **Qingzhong Wang**, Jia Wan and Antoni B. Chan. \
 IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 2020. \
 [Code](https://github.com/qingzwang/DiverseImageCaptioning), [PDF](http://visal.cs.cityu.edu.hk/static/pubs/journal/pami20-diverse.pdf)
 
-* <span style="color:#00ccff"><strong>Neighbours Matter: Image Captioning with Similar Images.</strong></span> \
+* **Neighbours Matter: Image Captioning with Similar Images.** \
 **Qingzhong Wang**, Jiuniu Wang, Antoni B. Chan, Siyu Huang, Haoyi Xiong, Xingjian Li and Dejing Dou. \
 In The British Machine Vision Conference (BMVC), 2020. \
 [Code](https://github.com/qingzwang/), [PDF](http://visal.cs.cityu.edu.hk/static/pubs/conf/bmvc20-neighbours.pdf)
 
-* <span style="color:#00ccff"><strong>Describing Like Humans: on Diversity in Image Captioning.</strong></span> \
+* **Describing Like Humans: on Diversity in Image Captioning.** \
 **Qingzhong Wang** and Antoni B. Chan. \
 In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. \
 [Code](https://github.com/qingzwang/DiversityMetrics), [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Describing_Like_Humans_On_Diversity_in_Image_Captioning_CVPR_2019_paper.pdf)
