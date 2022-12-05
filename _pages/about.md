@@ -23,6 +23,11 @@ News
 * [Mar. 03, 2022] One paper is accepted to T-PAMI.
 * [Dec. 01, 2021] One paper is accepted to AAAI 2022.
 * [Aug. 16, 2021] Congratulations Qingzhong for defending his thesis!
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
   
 </details>
 
