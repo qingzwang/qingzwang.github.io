@@ -17,7 +17,7 @@ News
 * [Oct. 27, 2022] Two papers are accepted to NeurIPS Human in the Loop Learning Workshop.
 * [Aug. 02, 2022] One paper is accepted to MLMI 2022 in conjunction with MICCAI 2022.
 * [Jun. 03, 2022] One paper is accepted to MICCAI 2022.
-<details> <summary><b>More</b></summary> 
+<details> <summary>More</summary> 
 <ul>
   <li>[Apr. 24, 2022] One paper is accepted to NeuroComputing.</li>
   <li>[Mar. 03, 2022] One paper is accepted to T-PAMI.</li>
