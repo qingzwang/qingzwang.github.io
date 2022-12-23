@@ -14,11 +14,12 @@ Dr. Qingzhong Wang now is a researcher in Baidu research. His research interests
 
 News
 ======
+* [Dec. 23, 2022] One paper is accepted to TMM.
 * [Oct. 27, 2022] Two papers are accepted to NeurIPS Human in the Loop Learning Workshop.
 * [Aug. 02, 2022] One paper is accepted to MLMI 2022 in conjunction with MICCAI 2022.
-* [Jun. 03, 2022] One paper is accepted to MICCAI 2022.
 <details> <summary>More</summary> 
 <ul>
+  <li>[Jun. 03, 2022] One paper is accepted to MICCAI 2022.</li>
   <li>[Apr. 24, 2022] One paper is accepted to NeuroComputing.</li>
   <li>[Mar. 03, 2022] One paper is accepted to T-PAMI.</li>
   <li>[Dec. 01, 2021] One paper is accepted to AAAI 2022.</li>
