@@ -9,6 +9,9 @@ author_profile: true
 
 ## 2022
 -----
+1. **A Survey on Video Action Recognition in Sports: Datasets, Methods and Applications** \
+  Fei Wu $^\star$, **Qingzhong Wang** $^{\star\dagger}$, Jiang Bian $^\star$, Haoyi Xiong $^\dagger$, Ning Ding, Feixiang Lu, Jun Cheng and Dejing Dou. \
+  IEEE Transactions on Multimedia (T-MM), 2022.
 1. **A comparative survey of deep active learning** \
   Xueying Zhan, **Qingzhong Wang**, Kuan-hao Huang, Haoyi Xiong, Dejing Dou, Antoni B. Chan. \
   NeurIPS Human in the Loop Learning Workshop, 2022. \
