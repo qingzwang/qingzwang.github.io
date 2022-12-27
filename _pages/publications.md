@@ -7,9 +7,8 @@ author_profile: true
 
 **$\star$ indicates equal contribution. $\dagger$ indicates corresponding author.**
 
-## 2023
-
 ## 2022
+----------
 
 1. **A Survey on Video Action Recognition in Sports: Datasets, Methods and Applications** \
   Fei Wu $^\star$, **Qingzhong Wang** $^{\star\dagger}$, Jiang Bian $^\star$, Haoyi Xiong $^\dagger$, Ning Ding, Feixiang Lu, Jun Cheng and Dejing Dou. \
@@ -65,6 +64,7 @@ author_profile: true
  [Code](https://github.com/qingzwang/DiverseImageCaptioning)
  
 ## Earlier
+----------
  
 1. **Infrared Image Super-Resolution via Heterogeneous Convolutional Wasserstein GAN.** \
     Yongsong Huang, Zetao Jiang, **Qingzhong Wang**, Qi Jiang and Guoming Pang. \
