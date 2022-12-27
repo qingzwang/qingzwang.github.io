@@ -63,6 +63,7 @@ author_profile: true
  [Code](https://github.com/qingzwang/DiverseImageCaptioning)
  
  ## Earlier
+ -----
  1. **Infrared Image Super-Resolution via Heterogeneous Convolutional Wasserstein GAN.** \
     Yongsong Huang, Zetao Jiang, **Qingzhong Wang**, Qi Jiang and Guoming Pang. \
     The 18th Pacific Rim International Conference on Artificial Intelligence, 2021.
