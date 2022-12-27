@@ -18,9 +18,9 @@ author_profile: true
   NeurIPS Human in the Loop Learning Workshop, 2022. \
   [PDF](https://arxiv.org/pdf/2203.13450.pdf), [Code](https://github.com/SineZHAN/deepALplus)
 1. **A Simple Framework for Active Learning to Rank** \
-  **Qingzhong Wang**, Haifang Li, et al. \
+  **Qingzhong Wang**, Haifang Li, Haoyi Xiong, Wen Wang, Jiang Bian, Yu Lu, Shuaiqiang Wang Zhicong Cheng, Dawei Yin and Dejing Dou. \
   NeurIPS Human in the Loop Learning Workshop, 2022. \
-  [PDF](https://arxiv.org/pdf/2205.10137.pdf)
+  [PDF](https://github.com/qingzwang/qingzwang.github.io/blob/master/_publications/ActiveLearningLTR.pdf)
 1. **Rethinking Degradation: Radiograph Super-Resolution via AID-SRGAN** \
   Yongsong Huang, **Qingzhong Wang** and Shinichiro Omachi. \
   The 13th International Workshop on Machine Learning in Medical Imaging in MICCAI, 2022. \
