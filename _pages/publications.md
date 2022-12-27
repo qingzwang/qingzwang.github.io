@@ -7,8 +7,10 @@ author_profile: true
 
 **$\star$ indicates equal contribution. $\dagger$ indicates corresponding author.**
 
+## 2023
+
 ## 2022
------
+
 1. **A Survey on Video Action Recognition in Sports: Datasets, Methods and Applications** \
   Fei Wu $^\star$, **Qingzhong Wang** $^{\star\dagger}$, Jiang Bian $^\star$, Haoyi Xiong $^\dagger$, Ning Ding, Feixiang Lu, Jun Cheng and Dejing Dou. \
   IEEE Transactions on Multimedia (T-MM), to appear 2022. \
@@ -62,49 +64,49 @@ author_profile: true
  IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 44(2):1035-1049, Feb. 2022. \
  [Code](https://github.com/qingzwang/DiverseImageCaptioning)
  
- ## Earlier
- -----
- 1. **Infrared Image Super-Resolution via Heterogeneous Convolutional Wasserstein GAN.** \
+## Earlier
+ 
+1. **Infrared Image Super-Resolution via Heterogeneous Convolutional Wasserstein GAN.** \
     Yongsong Huang, Zetao Jiang, **Qingzhong Wang**, Qi Jiang and Guoming Pang. \
     The 18th Pacific Rim International Conference on Artificial Intelligence, 2021.
     
- 1. **Group-based Distinctive Image Captioning with Memory Attention.** \
+1. **Group-based Distinctive Image Captioning with Memory Attention.** \
     Jiuniu Wang, Wenjia Xu, **Qingzhong Wang** and Antoni B. Chan. \
     ACM MM, 2021.
     
- 1. **Generating Person Images with Appearance-aware Pose Stylizer.** \
+1. **Generating Person Images with Appearance-aware Pose Stylizer.** \
     Siyu Huang, Haoyi Xiong, Zhi-Qi Cheng, **Qingzhong Wang**, Xingran Zhou, Bihan Wen, Jun Huan and Dejing Dou. \
     IJCAI, 2020.
     
- 1. **Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets.** \
+1. **Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets.** \
     Jiuniu Wang, Wenjia Xu, **Qingzhong Wang** and Antoni B. Chan. \
     ECCV, 2020.
     
- 1. **Does Ambient Sound Help? - Audiovisual Crowd Counting.** \
+1. **Does Ambient Sound Help? - Audiovisual Crowd Counting.** \
     Di Hu $^\star$, Lichao Mou $^\star$, **Qingzhong Wang** $^\star$, Junyu Gao, Yuansheng Hua, Dejing Dou and Xiaoxiang Zhu. \
     Sight and Sound Workshop at CVPR, 2020.
     
- 1. **Neighbours Matter: Image Captioning with Similar Images.** \
+1. **Neighbours Matter: Image Captioning with Similar Images.** \
     **Qingzhong Wang**, Jiuniu Wang, Antoni B. Chan, Siyu Huang, Haoyi Xiong, Xingjian Li and Dejing Dou. \
     BMVC, 2020.
     
- 1. **Describing like humans: on diversity in image captioning.** \
+1. **Describing like humans: on diversity in image captioning.** \
     **Qingzhong Wang** and Antoni B. Chan. \
     CVPR, 2019.
     
- 1. **Gated hierarchical attention for image captioning.** \
+1. **Gated hierarchical attention for image captioning.** \
     **Qingzhong Wang** and Antoni B. Chan. \
     ACCV, 2018.
     
- 1. **Cnn+ cnn: Convolutional decoders for image captioning.** \
+1. **Cnn+ cnn: Convolutional decoders for image captioning.** \
     **Qingzhong Wang** and Antoni B. Chan. \
     Vision and Language Workshop at CVPR, 2018.
     
- 1. **Improved harmony search algorithms by tournament selection operator.** \
+1. **Improved harmony search algorithms by tournament selection operator.** \
     Gang Li, **Qingzhong Wang** $^\dagger$ and Quan Du. \
     IEEE Congress on Evolutionary Computing, 2015.
 
- 1. **A cooperative harmony search algorithm for function optimization.** \
+1. **A cooperative harmony search algorithm for function optimization.** \
     Gang Li and **Qingzhong Wang** $^\dagger$. \
     Mathematical Problems in Engineering, 2014.
 
