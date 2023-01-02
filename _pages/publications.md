@@ -11,7 +11,7 @@ author_profile: true
 ----------
 
 1. **A Survey on Video Action Recognition in Sports: Datasets, Methods and Applications** \
-  Fei Wu $^\star$, **Qingzhong Wang** $^{\star\dagger}$, Jiang Bian $^\star$, Haoyi Xiong $^\dagger$, Ning Ding, Feixiang Lu, Jun Cheng and Dejing Dou. \
+  Fei Wu $^\star$, **Qingzhong Wang** $^{\star\dagger}$, Jiang Bian $^\star$, Ning Ding, Feixiang Lu, Jun Cheng, Dejing Dou and Haoyi Xiong $^\dagger$. \
   IEEE Transactions on Multimedia (T-MM), to appear 2022. \
   [PDF](https://ieeexplore.ieee.org/document/9999033), [Code](https://github.com/PaddlePaddle/PaddleSports/tree/develop/07-data/7.1-public_available_datasets)
   
