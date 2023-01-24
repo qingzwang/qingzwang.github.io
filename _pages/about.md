@@ -14,6 +14,7 @@ Dr. Qingzhong Wang now is a researcher in Baidu research. His research interests
 
 News
 ======
+* [Jan. 24, 2023] One paper is accepted to ISBI.
 * [Dec. 23, 2022] One paper is accepted to TMM.
 * [Oct. 27, 2022] Two papers are accepted to NeurIPS Human in the Loop Learning Workshop.
 * [Aug. 02, 2022] One paper is accepted to MLMI 2022 in conjunction with MICCAI 2022.
