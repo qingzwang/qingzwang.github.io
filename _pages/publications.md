@@ -9,6 +9,10 @@ author_profile: true
 
 ## 2023
 ----------
+1. **A Simple yet Effective Framework for Active Learning to Rank** \
+  **Qingzhong Wang**, Haifang Li, Haoyi Xiong $^\dagger$, Wen Wang, Jiang Bian, Yu Lu, Shuaiqiang Wang, Zhicong Cheng, Dejing Dou, Dawei Yin $^\dagger$. \
+  Machine Intelligence Research (MIR), to appear, 2023.
+  
 1. **Video4MRI: An Emperical Study on Brain Magnetic Resonance Image Analytics with CNN-based Video Classification Frameworks** \
   Yuxuan Zhang, **Qingzhong Wang**, Jiang Bian, Yi Liu, Yanwu Xu, Dejing Dou and Haoyi Xiong. \
   IEEE International Symposium on Biomedical Imaging (ISBI), 2023.
