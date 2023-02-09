@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**$\star$ indicates equal contribution. $\dagger$ indicates corresponding author.**
+**$\*$ indicates equal contribution. $\dagger$ indicates corresponding author.**
 
 ## 2023
 ----------
@@ -14,14 +14,14 @@ author_profile: true
   *Machine Intelligence Research (MIR)*, to appear, 2023.
   
 1. **Video4MRI: An Emperical Study on Brain Magnetic Resonance Image Analytics with CNN-based Video Classification Frameworks** \
-  Yuxuan Zhang $^\star$, **Qingzhong Wang** $^\star$, Jiang Bian $^\star$, Yi Liu, Yanwu Xu, Dejing Dou and Haoyi Xiong $^\dagger$. \
+  Yuxuan Zhang $^\*$, **Qingzhong Wang** $^\*$, Jiang Bian $^\*$, Yi Liu, Yanwu Xu, Dejing Dou and Haoyi Xiong $^\dagger$. \
   *IEEE International Symposium on Biomedical Imaging (ISBI)*, 2023.
 
 ## 2022
 ----------
 
 1. **A Survey on Video Action Recognition in Sports: Datasets, Methods and Applications** \
-  Fei Wu $^\star$, **Qingzhong Wang** $^{\star\dagger}$, Jiang Bian $^\star$, Ning Ding, Feixiang Lu, Jun Cheng, Dejing Dou and Haoyi Xiong $^\dagger$. \
+  Fei Wu $^\*$, **Qingzhong Wang** $^{\*\dagger}$, Jiang Bian $^\*$, Ning Ding, Feixiang Lu, Jun Cheng, Dejing Dou and Haoyi Xiong $^\dagger$. \
   *IEEE Transactions on Multimedia (T-MM)*, to appear 2022. \
   [PDF](https://ieeexplore.ieee.org/document/9999033), [Code](https://github.com/PaddlePaddle/PaddleSports/tree/develop/07-data/7.1-public_available_datasets)
   
@@ -46,7 +46,7 @@ author_profile: true
   [PDF](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_15)
   
 1. **Face. evoLVe: A cross-platform library for high-performance face analytics.** \
-  **Qingzhong Wang** $^\star$, Pengfei Zhang $^\star$, Haoyi Xiong $^\dagger$ and Jian Zhao $^\dagger$.\
+  **Qingzhong Wang** $^\*$, Pengfei Zhang $^\*$, Haoyi Xiong $^\dagger$ and Jian Zhao $^\dagger$.\
   *NeuroComputing*, 2022. \
   [PDF](https://arxiv.org/abs/2107.08621), [Code](https://github.com/ZhaoJ9014/face.evoLVe)
   
@@ -93,7 +93,7 @@ author_profile: true
     *ECCV*, 2020.
     
 1. **Does Ambient Sound Help? - Audiovisual Crowd Counting.** \
-    Di Hu $^\star$, Lichao Mou $^\star$, **Qingzhong Wang** $^\star$, Junyu Gao, Yuansheng Hua, Dejing Dou and Xiaoxiang Zhu. \
+    Di Hu $^\*$, Lichao Mou $^\*$, **Qingzhong Wang** $^\*$, Junyu Gao, Yuansheng Hua, Dejing Dou and Xiaoxiang Zhu. \
     *Sight and Sound Workshop at CVPR*, 2020.
     
 1. **Neighbours Matter: Image Captioning with Similar Images.** \
