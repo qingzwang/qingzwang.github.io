@@ -9,6 +9,10 @@ author_profile: true
 
 ## 2023
 ----------
+1. **COLTR: Semi-supervised Learning to Rank with Co-training and Over-parameterization for Web Search** \
+   Yuchen Li, Haoyi Xiong, **Qingzhong Wang**, Linghe Kong, Hao Liu, Haifang Li, Jiang Bian, Shuaiqiang Wang, Guihai Chen, Dejing Dou and Dawei Yin \
+   *IEEE Transactions on Knowledge and Data Engineering*, to appear, 2023. 
+   
 1. **A Simple yet Effective Framework for Active Learning to Rank** \
   **Qingzhong Wang**, Haifang Li, Haoyi Xiong $^\dagger$, Wen Wang, Jiang Bian, Yu Lu, Shuaiqiang Wang, Zhicong Cheng, Dejing Dou, Dawei Yin $^\dagger$. \
   *Machine Intelligence Research (MIR)*, to appear, 2023. \
@@ -16,7 +20,8 @@ author_profile: true
   
 1. **Video4MRI: An Emperical Study on Brain Magnetic Resonance Image Analytics with CNN-based Video Classification Frameworks** \
   Yuxuan Zhang $^\*$, **Qingzhong Wang** $^\*$, Jiang Bian $^\*$, Yi Liu, Yanwu Xu, Dejing Dou and Haoyi Xiong $^\dagger$. \
-  *IEEE International Symposium on Biomedical Imaging (ISBI)*, 2023.
+  *IEEE International Symposium on Biomedical Imaging (ISBI)*, 2023. \
+  [PDF](https://arxiv.org/pdf/2302.12688.pdf)
 
 ## 2022
 ----------
