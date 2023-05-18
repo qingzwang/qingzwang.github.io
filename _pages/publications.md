@@ -9,8 +9,11 @@ author_profile: true
 
 ## 2023
 ----------
+1. **S2phere: Semi-Supervised Pre-training for Web Search over Heterogeneous Learning to Rank Data** \
+   Yuchen Li, Haoyi Xiong, Linghe Kong, **Qingzhong Wang**, Shuaiqiang Wang, Guihai Chen, and Dawei Yin. \
+   *KDD*, 2023.
 1. **COLTR: Semi-supervised Learning to Rank with Co-training and Over-parameterization for Web Search** \
-   Yuchen Li, Haoyi Xiong, **Qingzhong Wang**, Linghe Kong, Hao Liu, Haifang Li, Jiang Bian, Shuaiqiang Wang, Guihai Chen, Dejing Dou and Dawei Yin \
+   Yuchen Li, Haoyi Xiong, **Qingzhong Wang**, Linghe Kong, Hao Liu, Haifang Li, Jiang Bian, Shuaiqiang Wang, Guihai Chen, Dejing Dou and Dawei Yin. \
    *IEEE Transactions on Knowledge and Data Engineering*, to appear, 2023. 
    
 1. **A Simple yet Effective Framework for Active Learning to Rank** \
