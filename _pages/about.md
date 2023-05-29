@@ -14,6 +14,7 @@ Dr. Qingzhong Wang now is a researcher in Baidu research. His research interests
 
 News
 ======
+* [May 29, 2023] One paper is accepted to MIUA.
 * [May 18, 2023] One paper is accepted to KDD.
 * [Apr. 23, 2023] One paper is accepted to TKDE.
 * [Feb. 03, 2023] One paper is accepted to MIR.
