@@ -11,8 +11,12 @@ author_profile: true
 ----------
 
 1. **Feynman: Federated Advertising for Ecosystems-Oriented Mobile Apps Recommendation** \
-   Jiang Bian, Jizhou Huang, Shilei Ji, Yuan Liao, Xuhong Li, **Qingzhong Wang**, Jingbo Zhou, Yaqing Wang, Dejing Dou, and Haoyi Xiong.
+   Jiang Bian, Jizhou Huang, Shilei Ji, Yuan Liao, Xuhong Li, **Qingzhong Wang**, Jingbo Zhou, Yaqing Wang, Dejing Dou, and Haoyi Xiong. \
    *IEEE Transactions on Service Computing*, to appear, 2023.
+   
+1. **Context Matters: Cross-domain Cell Detection in Histopathology Images via Contextual Regularization** \
+   Ziqi Wen $^\*$, **Qingzhong Wang** $^\*$, Jiang Bian, Xuhong Li, Yi Liu, and Haoyi Xiong. \
+   *The 27th Conference on Medical Image Understanding and Analysis (MIUA)*, 2023.
    
 1. **S2phere: Semi-Supervised Pre-training for Web Search over Heterogeneous Learning to Rank Data** \
    Yuchen Li, Haoyi Xiong, Linghe Kong, **Qingzhong Wang**, Shuaiqiang Wang, Guihai Chen, and Dawei Yin. \
