@@ -9,6 +9,10 @@ author_profile: true
 
 ## 2023
 ----------
+1. **Pareto Optimization for Active Learning under Out-of-Distribution Data Scenarios** \
+   Xueying Zhan $^\*$, Zeyu Dai $^\*$, **Qingzhong Wang**, Qing Li, Haoyi Xiong, Dejing Dou and Antoni Chan. \
+   *TMLR*, to appear, 2023. \
+   [PDF](https://openreview.net/pdf?id=dXnccpSSYF), [Code](https://github.com/SineZHAN/POAL)
 
 1. **Feynman: Federated Advertising for Ecosystems-Oriented Mobile Apps Recommendation** \
    Jiang Bian, Jizhou Huang, Shilei Ji, Yuan Liao, Xuhong Li, **Qingzhong Wang**, Jingbo Zhou, Yaqing Wang, Dejing Dou, and Haoyi Xiong. \
