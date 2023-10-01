@@ -10,8 +10,6 @@ redirect_from:
 
 Dr. Qingzhong Wang now is a researcher in Baidu research. His research interests include **image captioning**, **vision & language** and **multimodality**. He received the Ph.D degree from [City University of Hong Kong](https://www.cs.cityu.edu.hk/) in 2021 supervised by [Prof. Antoni Chan](https://www.cs.cityu.edu.hk/~abchan/). He received the M.Eng and B.Eng from [Harbin Engineering University](http://www.hrbeu.edu.cn/) in 2016 and 2013, respectively. Currently, he works closely with [Dr. Haoyi Xiong](https://sites.google.com/site/haoyixiongshomepage/Home?authuser=0).
 
-<span style="color:red">**[Opportunities] We are hiring interns now. If you are interested in self-supervised learning, medical imaging, and vision-language learning, please feel free to contact me.**</span>
-
 News
 ======
 * [June 20, 2023] One paper is accepted to TMLR.
@@ -32,10 +30,6 @@ News
   <li>[Aug. 16, 2021] Congratulations Qingzhong for defending his thesis!</li>
 </ul> 
 </details>
-  
-Grants
-======
-* **子课题负责人** 科技部 科技创新2030重大项目 (No. 2021ZD0110303), 2022.01--2024.12
 
 Selected Publications [<font size=4>[More]</font>](https://scholar.google.com/citations?user=e7ZsEIcAAAAJ&hl=zh-CN)
 ======
@@ -73,7 +67,7 @@ Service
   * ECCV - 2020,2022
   * ICML - 2020-23
   * NeurIPS - 2020-22
-  * ICLR - 2020-23
+  * ICLR - 2020-24
   * BMVC - 2020
   * ACCV - 2020
   * WACV - 2020-22
