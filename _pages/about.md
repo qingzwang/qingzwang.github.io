@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Qingzhong Wang now is an Applied Scientist in AWS, working on Generitive AI. His research interests include **LLMs**,, **vision & language** and **self-supervised learning**, and his work is to build AI systems to solve customers' problems. Prior to joining AWS, he is a researcher in Baidu Research. He received the Ph.D degree from [City University of Hong Kong](https://www.cs.cityu.edu.hk/) in 2021 supervised by [Prof. Antoni Chan](https://www.cs.cityu.edu.hk/~abchan/). He received the M.Eng and B.Eng from [Harbin Engineering University](http://www.hrbeu.edu.cn/) in 2016 and 2013, respectively. 
+Dr. Qingzhong Wang now is an Applied Scientist in AWS, working on Generitive AI. His research interests include **LLMs**, **vision & language** and **self-supervised learning**, and his work is to build AI systems to solve customers' problems. Prior to joining AWS, he is a researcher in Baidu Research. He received the Ph.D degree from [City University of Hong Kong](https://www.cs.cityu.edu.hk/) in 2021 supervised by [Prof. Antoni Chan](https://www.cs.cityu.edu.hk/~abchan/). He received the M.Eng and B.Eng from [Harbin Engineering University](http://www.hrbeu.edu.cn/) in 2016 and 2013, respectively. 
 
 News
 ======
