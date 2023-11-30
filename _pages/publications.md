@@ -9,6 +9,10 @@ author_profile: true
 
 ## 2023
 ----------
+1. **P2ANet: A Large-Scale Benchmark for Dense Action Detection from Table Tennis Match Broadcasting Videos** \
+   Jiang Bian, Xuhong Li, Tao Wang, **Qingzhong Wang**, Jun Huang, Chen Liu, Jun Zhao, Feixiang Lu, Dejing Dou and Haoyi Xiong. \
+   *ACM Transactions on Multimedia Computing, Communications, and Applications*, to appear, 2023. 
+
 1. **Pareto Optimization for Active Learning under Out-of-Distribution Data Scenarios** \
    Xueying Zhan $^\*$, Zeyu Dai $^\*$, **Qingzhong Wang**, Qing Li, Haoyi Xiong, Dejing Dou and Antoni Chan. \
    *Transactions on Machine Learning Research (TMLR)*, to appear, 2023. \
