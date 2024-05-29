@@ -12,14 +12,16 @@ Dr. Qingzhong Wang now is an Applied Scientist in AWS, working on Generative AI.
 
 News
 ======
-* [June 20, 2023] One paper is accepted to TMLR.
-* [May 29, 2023] One paper is accepted to MIUA.
-* [May 18, 2023] One paper is accepted to KDD.
-* [Apr. 23, 2023] One paper is accepted to TKDE.
-* [Feb. 03, 2023] One paper is accepted to MIR.
-* [Jan. 24, 2023] One paper is accepted to ISBI.
+* [May, 2024] One paper is accept to TIP.
+* [May, 2024] One paper is accept to TAI.
 <details> <summary>More</summary> 
 <ul>
+  <li>[June 20, 2023] One paper is accepted to TMLR.</li>
+  <li>[May 29, 2023] One paper is accepted to MIUA.</li>
+  <li>[May 18, 2023] One paper is accepted to KDD.</li>
+  <li>[Apr. 23, 2023] One paper is accepted to TKDE.</li>
+  <li>[Feb. 03, 2023] One paper is accepted to MIR.</li>
+  <li>[Jan. 24, 2023] One paper is accepted to ISBI.</li>
   <li>[Dec. 23, 2022] One paper is accepted to TMM.</li>
   <li>[Oct. 27, 2022] Two papers are accepted to NeurIPS Human in the Loop Learning Workshop.</li>
   <li>[Aug. 02, 2022] One paper is accepted to MLMI 2022 in conjunction with MICCAI 2022.</li>
