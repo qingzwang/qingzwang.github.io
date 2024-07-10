@@ -12,6 +12,7 @@ Dr. Qingzhong Wang now is an Applied Scientist in AWS, working on Generative AI.
 
 News
 ======
+* [July, 2024] One paper is accept to IJCV.
 * [May, 2024] One paper is accept to TIP.
 * [May, 2024] One paper is accept to TAI.
 <details> <summary>More</summary> 
@@ -64,20 +65,21 @@ Service
 =======
 * Conference Program Committees
   * KDD - 2022-23
-  * CVPR - 2020-23
+  * CVPR - 2020-24
   * ICCV - 2019,2021
-  * ECCV - 2020,2022
+  * ECCV - 2020,2022,2024
   * ICML - 2020-23
-  * NeurIPS - 2020-22
+  * NeurIPS - 2020-24
   * ICLR - 2020-24
   * BMVC - 2020
   * ACCV - 2020
-  * WACV - 2020-22
+  * WACV - 2020-24
   * AAAI - 2020-21
 * Journal Reviewing
   * IEEE Trans. on Image Processing
   * IEEE Trans. on Multimedia
   * IEEE Trans. on Neural Networks and Learning Systems
   * International Journal of Computer Vision
+  * Computer Vision and Image Understanding
 
 
