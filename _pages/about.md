@@ -12,6 +12,7 @@ Dr. Qingzhong Wang now is an Applied Scientist in AWS, working on Generative AI.
 
 News
 ======
+* [Mar., 2025] One paper is accepted to TIP.
 * [Sep., 2024] One paper is accepted to TMM.
 * [July, 2024] One paper is accepted to IJCV.
 * [May, 2024] One paper is accepted to TIP.
